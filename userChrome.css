@@ -1,0 +1,9 @@
+.titlebar-spacer{display:none!important;}
+.tab-background[selected] {
+    background-color: rgb(255,255,255,0.1) !important;
+    border: 2px solid #ffffff35 !important;
+    background-image: none !important;
+}
+.tab-background{
+    background-image: linear-gradient(to right,rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.2));
+}
